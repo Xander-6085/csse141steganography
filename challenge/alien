@@ -1,6 +1,6 @@
 options:
   parameters:
-    author: xander
+    author: evil_wizard
     catch_exceptions: 'True'
     category: '[GRC Hier Blocks]'
     cmake_opt: ''
@@ -107,7 +107,7 @@ blocks:
     alias: ''
     append: 'False'
     comment: ''
-    file: /home/xander/Projects/gnuradio/smile
+    file: smile
     type: complex
     unbuffered: 'True'
     vlen: '1'
